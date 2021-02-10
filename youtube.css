@@ -1,0 +1,9 @@
+.count-text,
+[aria-label$=likes],
+[aria-label$=dislikes],
+#vote-count-middle,
+#metadata-line,
+#owner-sub-count,
+.view-count {
+    display: none !important;
+}

@@ -1,0 +1,14 @@
+
+/*links*/
+a[href$=likes],
+a[href$=retweets],
+a[href$=followers],
+a[href$=following],
+a[href$=with_comments],
+/* count after the icons */
+[data-testid=reply] span,
+[data-testid=like] span,
+[data-testid=retweet] span,
+[data-testid=unretweet] span {
+    display: none;
+}
