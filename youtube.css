@@ -2,8 +2,11 @@
 [aria-label$=likes],
 [aria-label$=dislikes],
 #vote-count-middle,
+#subscriber-count,
 #metadata-line,
 #owner-sub-count,
+#subscribers,
+#dot,
 .view-count {
     display: none !important;
 }
